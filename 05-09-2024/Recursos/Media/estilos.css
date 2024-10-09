@@ -54,3 +54,8 @@ body{
     border: 10px solid white;
     border-radius: 10px;
 }
+
+body{
+    background: rgb(1,0,20);
+    background: linear-gradient(90deg, rgba(1,0,20,1) 0%, rgba(47,101,113,1) 52%, rgba(255,0,0,0) 100%);
+}
